@@ -20,6 +20,6 @@ make_plot1.png <- function(path){
   dev.off()
   
 }
-make_plot1.png("/Users/fabriziopennacchio/Desktop/RCoursera/household_power_consumption.txt")
+make_plot1.png("put your path here!")
 
 
